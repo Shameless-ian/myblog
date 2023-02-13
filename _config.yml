@@ -1,9 +1,9 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: 工作博客
+title: 李承前工作博客
+keywords: work, blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  李承前 - 工作博客
 lang: en-US
 timezone:  Europe/Istanbul
 repo: https://github.com/onepase/Ephesus # site repo [optional]
@@ -13,8 +13,8 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: 李承前
+  bio: 研发及交付中心零售开发组 <br> 项目管理 <br> 网联清算前置、音视频采集系统负责人
   picture: assets/images/profile.jpg 
   github: onepase # github username
   twitter: onepase # twitter username
