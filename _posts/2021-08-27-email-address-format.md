@@ -9,6 +9,6 @@ tags: [李承前, 2023.01.20]
 ---
 本周，完成个人博客照片添加功能开发，效果如下：
 
-![李承前](/assets/images/ephesus.jpg "斗兽场")
+![李承前](assets/images/ephesus.jpg "斗兽场")
 
 罗马斗兽场外景
