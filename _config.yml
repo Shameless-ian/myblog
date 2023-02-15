@@ -26,6 +26,7 @@ author:
 
 
 # URL settings
+baseurl: "/myblog"
 url: "https://shameless-ian.github.io/myblog/" # Domain Name of host. [username].github.io for github pageshttps://shameless-ian.github.io/myblog/
 permalink: pretty
 
